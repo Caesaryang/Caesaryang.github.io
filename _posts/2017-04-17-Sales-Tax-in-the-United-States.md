@@ -11,7 +11,7 @@ date-string: April 17, 2017
 Executive Summary
 ------------
 
-Even though details of sales tax may vary from country to country, the phenomenon that VAT, or value-added tax,  has become a global taxation method can be seen over the last half century. The number of countries that adopted VAT has grown from less than 10 countries in the late 1960s to 166 countries worldwide today (OECD, 2016). However, such tax reform would even be trickier in the U.S. since it requires a thorough transformation of the country’s multiple levels of tax authorities and abolition of the current sales tax system. The three main reasons why the U.S. is unlikely to replace sales tax with VAT are its dissipated structure of tax authorities, history and politics, and social efficiency.
+Even though details of sales tax may vary from country to country, the phenomenon that VAT, or value-added tax, has become a global taxation method can be seen over the last half-century. The number of countries that adopted VAT has grown from less than 10 countries in the late 1960s to 166 countries worldwide today (OECD, 2016). However, such tax reform would even be trickier in the U.S. since it requires a thorough transformation of the country’s multiple levels of tax authorities and abolition of the current sales tax system. The three main reasons why the U.S. is unlikely to replace sales tax with VAT are its dissipating structure of tax authorities, history and politics, and social efficiency.
 
 > The U.S. policymakers have found it tempting to consider the VAT, but no one seems to be able to muster 
 > the courage to call it by its real name
@@ -27,13 +27,13 @@ Dissipated tax authorities produced the strongest resistance. Currently, the sal
 
 ![png](/images/2017-04-17/states.png)
 
-Furthermore, the current system, which sales tax rate are determined by states and local governments, is too deregulated to monitor a VAT system to work. In other words, all 50 state governments would have to approve the bills of handing their authorities over sales tax to the federal government to form a unified federal tax bureau.
+Furthermore, the current system, which sales tax rate is determined by states and local governments, is too deregulated to monitor a VAT system to work. In other words, all 50 state governments would have to approve the bills of handing their authorities over sales tax to the federal government to form a unified federal tax bureau.
 
 ![png](/images/2017-04-17/reliance.png)
 
 **2. History and Politics**
  
-History and politics also produce a lot incompatibilities. The U.S. is a country founded with tax revolt and the belief of no taxation without representation. In 1781, the first constitution of the U.S., Articles of Confederation, failed to authorize the federal government to collect taxes. It has become a tradition for people to believe that state governments and federal government should focus on its own business rather than interfere with each other since then. Appendix B shows the changing components of total state and local governments’ revenue from 1900 to 2010. Especially starting from the 1930s, due to the Great Depression urging expansion of government’s expenditure and social welfare, the U.S. government managed to revitalize its economy by increasing tax revenue. The proportion of sales tax in total tax revenue  increased dramatically to around 30% and has kept stable since then.
+History and politics also produce a lot of incompatibilities. The U.S. is a country founded with a tax revolt and the belief of no taxation without representation. In 1781, the first constitution of the U.S., Articles of Confederation, failed to authorize the federal government to collect taxes. It has become a tradition for people to believe that state governments and the federal government should focus on its own business rather than interfere with each other since then. Appendix B shows the changing components of total state and local governments’ revenue from 1900 to 2010. Especially starting from the 1930s, due to the Great Depression urging expansion of government’s expenditure and social welfare, the U.S. government managed to revitalize its economy by increasing tax revenue. The proportion of sales tax in total tax revenue increased dramatically to around 30% and has kept stable since then.
 
 > Even Albert Einstein reportedly needed help on his 1040 form.
 >
@@ -45,14 +45,14 @@ The opaqueness of VAT tax burden is intrinsically incompatible with the U.S. fou
 
 **3. Social Efficiency**
 
-From the government’s point of view, one big advantage of sales tax over VAT is its lower administrative cost. By adopting VAT, every transaction in between must be monitored. However, by adopting sales tax, regulation on tax collection would only be necessary in the last transaction, government can tax consumer at a lower administration cost. Even though a various sales tax rates would be inevitable, handing authorities over sales tax rates to state governments would allow state governments to actively manage their budgets while maximized resident’s utilities in the long run.
+From the government’s point of view, one big advantage of sales tax over VAT is its lower administrative cost. By adopting VAT, every transaction in between must be monitored. However, by adopting the sales tax, regulation on tax collection would only be necessary for the last transaction, the government can tax consumer at a lower administration cost. Even though a various sales tax rates would be inevitable, handing authorities over sales tax rates to state governments would allow state governments to actively manage their budgets while maximized resident’s utilities in the long run.
 
-From the consumer’s point of view, once VAT got adopted, the poor people would suffer more because the regressive feature of VAT would result a higher percentage of tax burden on poor community (Tax Analysts, 2011). A way around that is to send checks back to people of lower-income who apply, though the total amount would be so large and quantity of fraud would follow (Henderson, 2016). Furthermore, the U.S. government is able to raise enough revenue that it needs mainly through income tax, payroll taxes (Social Security and Medicare), and corporate income tax (Office of Management and Budget, 2016), the motivation and rationale to add expense on consumption tax regulation is pretty low.
+From the consumer’s point of view, once VAT got adopted, the poor people would suffer more because the regressive feature of VAT would result in a higher tax burden on the poor community (Tax Analysts, 2011). A way around that is to send checks back to people of lower-income who apply, though the total amount would be so large and quantity of fraud would follow (Henderson, 2016). Furthermore, the U.S. government is able to raise enough revenue that it needs mainly through income tax, payroll taxes (Social Security and Medicare), and corporate income tax (Office of Management and Budget, 2016), the motivation and rationale to add expense on consumption tax regulation is pretty low.
 
 Conclusion
 ------------
 
-Although some VAT supporters insist VAT would benefit the economy more as a whole than sales tax does, the facts set of decentralized tax system, history, voting advantage, and social efficiency would enable the sales tax prevails over VAT in the U.S. for a very long time. In short, the U.S. will continue to use sales tax into the foreseeable future. 
+Although some VAT supporters insist VAT would benefit the economy more as a whole than the sales tax does, the facts set of a decentralized tax system, history, voting advantage, and social efficiency would enable the sales tax prevails over VAT in the U.S. for a very long time. In short, the U.S. will continue to use sales tax into the foreseeable future.
 
 Reference
 ------------
